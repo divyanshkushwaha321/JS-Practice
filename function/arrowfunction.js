@@ -40,3 +40,9 @@
 // const add = () => ({username:"Divyansh"})    // if using object then we have to wrap it in ()
 // console.log(add());
  
+
+const id = 20
+const add = (e) => {
+    return e == id;
+}
+console.log(add(20));

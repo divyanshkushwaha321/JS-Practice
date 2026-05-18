@@ -64,5 +64,12 @@
 
 
 
+const id = 20
+const e = 20;
+function abc(e){
+    // console.log(e)
+    return e == id;
+}
+console.log(abc(e));
 
-
+// (e) => e.id === id)
