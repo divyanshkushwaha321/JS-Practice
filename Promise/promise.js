@@ -9,7 +9,6 @@
 // })
 
 
-
 // new Promise(function(resolve, reject){
 //     setTimeout(()=>{
 //         console.log("Async task is completed");
